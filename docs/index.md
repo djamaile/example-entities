@@ -27,12 +27,3 @@ title Login Sequence
     ComponentB->ComponentA: Login Response
 @enduml
 ```
-
-### Mermaid
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-John-->>Alice: Great!
-Alice-)John: See you later!
-```
