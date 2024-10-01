@@ -7,7 +7,7 @@ metadata:
     - frontend
     - example
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/callebstrom/example-entities
+    backstage.io/techdocs-ref: url:https://github.com/djamaile/example-entities
 spec:
   type: website
   lifecycle: production
