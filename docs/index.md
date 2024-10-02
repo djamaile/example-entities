@@ -17,16 +17,5 @@ enum ConsecteturEnum {
 }
 ```
 
-### PlantUML
-
-```plantuml
-@startuml
-title Login Sequence
-    ComponentA->ComponentB: Login Request
-    note right of ComponentB: ComponentB logs message
-    ComponentB->ComponentA: Login Response
-@enduml
-```
-
 - [Mermaid](./mermaid.md): this showcases how to use Mermaid diagrams in your TechDocs
 - [PlantUML](./plant.md): this showcases how to use PlantUML diagrams in your TechDocs

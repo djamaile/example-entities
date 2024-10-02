@@ -6,8 +6,8 @@ edit_uri: edit/main/docs
 plugins:
   - techdocs-core
 
-# markdown_extensions:
-#   - markdown_inline_mermaid
+markdown_extensions:
+  - markdown_inline_mermaid
 
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
