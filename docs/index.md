@@ -27,3 +27,6 @@ title Login Sequence
     ComponentB->ComponentA: Login Response
 @enduml
 ```
+
+- [Mermaid](./mermaid.md): this showcases how to use Mermaid diagrams in your TechDocs
+- [PlantUML](./plant.md): this showcases how to use PlantUML diagrams in your TechDocs
