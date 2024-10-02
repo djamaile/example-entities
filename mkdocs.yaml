@@ -5,6 +5,7 @@ edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
+  - gh-admonitions
 
 markdown_extensions:
   - markdown_inline_mermaid
