@@ -13,3 +13,6 @@ markdown_extensions:
 # For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
 nav:
   - Home: 'index.md'
+  - Mermaid: 'mermaid.md'
+  - PlantUML: 'plant.md'
+  - Admon: 'admon.md'
